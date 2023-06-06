@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lockenewell/c_sharp/c_sharp.csproj",
+      "projectUniqueName": "/Users/lockenewell/git/c_sharp/c_sharp.csproj",
       "projectName": "c_sharp",
-      "projectPath": "/Users/lockenewell/c_sharp/c_sharp.csproj",
+      "projectPath": "/Users/lockenewell/git/c_sharp/c_sharp.csproj",
       "packagesPath": "/Users/lockenewell/.nuget/packages/",
-      "outputPath": "/Users/lockenewell/c_sharp/obj/",
+      "outputPath": "/Users/lockenewell/git/c_sharp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/lockenewell/.nuget/NuGet/NuGet.Config"

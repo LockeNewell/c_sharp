@@ -1,0 +1,15 @@
+/Users/lockenewell/git/c_sharp/bin/Debug/net6.0/c_sharp
+/Users/lockenewell/git/c_sharp/bin/Debug/net6.0/c_sharp.deps.json
+/Users/lockenewell/git/c_sharp/bin/Debug/net6.0/c_sharp.runtimeconfig.json
+/Users/lockenewell/git/c_sharp/bin/Debug/net6.0/c_sharp.dll
+/Users/lockenewell/git/c_sharp/bin/Debug/net6.0/c_sharp.pdb
+/Users/lockenewell/git/c_sharp/obj/Debug/net6.0/c_sharp.csproj.AssemblyReference.cache
+/Users/lockenewell/git/c_sharp/obj/Debug/net6.0/c_sharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lockenewell/git/c_sharp/obj/Debug/net6.0/c_sharp.AssemblyInfoInputs.cache
+/Users/lockenewell/git/c_sharp/obj/Debug/net6.0/c_sharp.AssemblyInfo.cs
+/Users/lockenewell/git/c_sharp/obj/Debug/net6.0/c_sharp.csproj.CoreCompileInputs.cache
+/Users/lockenewell/git/c_sharp/obj/Debug/net6.0/c_sharp.dll
+/Users/lockenewell/git/c_sharp/obj/Debug/net6.0/refint/c_sharp.dll
+/Users/lockenewell/git/c_sharp/obj/Debug/net6.0/c_sharp.pdb
+/Users/lockenewell/git/c_sharp/obj/Debug/net6.0/c_sharp.genruntimeconfig.cache
+/Users/lockenewell/git/c_sharp/obj/Debug/net6.0/ref/c_sharp.dll
